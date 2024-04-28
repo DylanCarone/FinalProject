@@ -1,0 +1,42 @@
+[
+    {
+      "tagName": "Nintendo",
+      "backgroundColor": "#C1121C",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Sega",
+      "backgroundColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Sony",
+      "backgroundColor": "purple",
+      "textColor": "#ffffff"
+    },
+    {
+      "tagName": "Atari",
+      "backgroundColor": "#FF6B00",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Commodore",
+      "backgroundColor": "#007BBB",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Neo Geo",
+      "backgroundColor": "#EC1C24",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Game Boy",
+      "backgroundColor": "#8B8B6B",
+      "textColor": "white"
+    },
+    {
+      "tagName": "Xbox",
+      "backgroundColor": "#107C10",
+      "textColor": "white"
+    }
+  ]
